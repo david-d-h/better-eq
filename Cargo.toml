@@ -2,5 +2,7 @@
 name = "better-eq"
 version = "0.1.0"
 edition = "2021"
+description = "Better, cleaner, and richer equality checking."
 authors = ["David d.H. <75451291+david-d-h@users.noreply.github.com>"]
-license-file = "LICENSE"
+repository = "https://github.com/david-d-h/better-eq"
+license-file = "LICENSE.txt"
